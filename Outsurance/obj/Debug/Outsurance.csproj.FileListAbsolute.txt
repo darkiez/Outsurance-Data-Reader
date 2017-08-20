@@ -1,0 +1,6 @@
+C:\Worskspace\WeMakeItHappen\Outsurance\Outsurance\Outsurance\bin\Debug\Outsurance.exe.config
+C:\Worskspace\WeMakeItHappen\Outsurance\Outsurance\Outsurance\bin\Debug\Outsurance.exe
+C:\Worskspace\WeMakeItHappen\Outsurance\Outsurance\Outsurance\bin\Debug\Outsurance.pdb
+C:\Worskspace\WeMakeItHappen\Outsurance\Outsurance\Outsurance\obj\Debug\Outsurance.csprojResolveAssemblyReference.cache
+C:\Worskspace\WeMakeItHappen\Outsurance\Outsurance\Outsurance\obj\Debug\Outsurance.exe
+C:\Worskspace\WeMakeItHappen\Outsurance\Outsurance\Outsurance\obj\Debug\Outsurance.pdb
